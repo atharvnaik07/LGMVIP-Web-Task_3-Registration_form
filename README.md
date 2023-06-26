@@ -6,6 +6,7 @@ This is the README file for the LGMVIP Web Task 3 - Registration Form. In this t
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
+- [screenshot](#screenshot)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -23,6 +24,9 @@ To get started with the LGMVIP Web Task 3 - Registration Form, follow these step
 1. Clone the repository or download the source code as a ZIP file.
 2. Extract the contents of the ZIP file, if necessary.
 3. Open the project folder in your preferred text editor or IDE.
+
+## Screenshot
+![image](https://github.com/atharvnaik07/LGMVIP-Web-Task_3-Registration_form/assets/114814921/bd56aca6-a2c4-4678-b236-eac22f1bf660)
 
 ## Usage
 To use the LGMVIP Web Task 3 - Registration Form, follow these steps:
