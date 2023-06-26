@@ -26,7 +26,7 @@ To get started with the LGMVIP Web Task 3 - Registration Form, follow these step
 3. Open the project folder in your preferred text editor or IDE.
 
 ## Screenshot
-![image](https://github.com/atharvnaik07/LGMVIP-Web-Task_3-Registration_form/assets/114814921/bd56aca6-a2c4-4678-b236-eac22f1bf660)
+![image](https://github.com/atharvnaik07/LGMVIP-Web-Task_3-Registration_form/assets/114814921/14667aa4-2530-4c6f-be6c-0c4e86e2122e)
 
 ## Usage
 To use the LGMVIP Web Task 3 - Registration Form, follow these steps:
