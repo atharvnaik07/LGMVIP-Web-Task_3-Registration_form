@@ -1,0 +1,115 @@
+
+*{
+    color: rgb(0, 0, 0);
+  }
+   /* CSS for navbar */
+  
+  body {
+  align-items: center;
+  background-color: aqua;
+  }
+  
+  .container{
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+  
+  }
+  
+  .row{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
+  /*section */
+  div.sec-form{
+    border-right:2px solid #030303;
+  }
+  
+  div.sec-form, div.sec-user{
+    justify-content: center !important;
+    background: transparent;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  div.sec-form h1, div.sec-user h1{
+    padding-top: 3%;
+    text-align: center;
+  }
+  
+  div .gender{
+    margin-right: 2%;
+  }
+  
+  div .check2{
+    display: flex;
+  }
+  
+  div .check1{
+    display: flex;
+  }
+  
+  .btn2{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+  }
+  
+  .card-body p, .card-body h5{
+    color: rgb(0, 0, 0) !important;
+  }
+  
+  .card1{
+    margin-top: 5vmin;
+    margin-bottom: auto;
+  }
+  
+  .img-fluid{
+    height: 210px !important;
+  }
+  
+  .card{
+    margin-bottom: 5%;
+  }
+  
+  .card:hover{
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 2px 8px 0px;
+  }
+  
+  @media (max-width: 1140px){
+  
+  .col-10{
+      padding-left: 5vmin;
+    }
+    .custom-con{
+      margin-left: 5%;
+      margin-right: 5%;
+    }
+  
+  }
+  @media (max-width: 768px){
+    .sec-form .btn2{
+      margin-bottom: 4vmin;
+    }
+    .sec-user{
+      border-top:2px solid #000000;
+    }
+  }
+  
+  @media (max-width: 576px){
+    .sec-user{
+      margin-bottom: 2%;
+    }
+  
+    .btn2{
+      display: block;
+    }
+  
+   div .enroll1{
+     margin-bottom: 5%;
+   }
+  
+  }
